@@ -19,11 +19,16 @@ This project was carried out thanks to the collaboration of PhD students from th
 We worked together with the research groups of [AUROVA](http://www.aurova.ua.es/) (University of Alicante) and [INAUT](http://www.inaut.unsj.edu.ar) (National University of San Juan).
 
 <p align='center'>
-  <img src="/AUROVA_LOGO.png" width="30%"  />
+  <a href="http://www.aurova.ua.es/">
+   <img src="/AUROVA_LOGO.png" width="30%"  /> 
+  <a>  
 </p>
 
 <p align='center'>
- <img src="/INAUT_UNSJ.png" width="15%" /> 
+  <a href="http://www.inaut.unsj.edu.ar/">
+   <img src="/INAUT_UNSJ.png" width="15%" /> 
+  <a>  
 </p>
+
 
     
