@@ -10,7 +10,7 @@ To use our approach you need the [Visual Servoing](https://github.com/EPVelasco/
 ### Acknowledgements
 This project was carried out thanks to the collaboration of PhD students from the [University of Alicante](https://www.ua.es/) in Spain, [Universidad Nacional de San Juan](https://www.unsj.edu.ar/) in Argentina and [Universidad Indoamérica](https://indoamerica.edu.ec/) in Ambato-Ecuador.
 
-<p align='left'>
+<p align='center'>
 <img width="40%" src="/Universities.png"/>
 </p>
 
