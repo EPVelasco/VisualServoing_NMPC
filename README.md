@@ -28,6 +28,21 @@ We worked together with the research groups of [AUROVA](http://www.aurova.ua.es/
   <a href="http://www.inaut.unsj.edu.ar/">
    <img src="/INAUT_UNSJ.png" width="15%" /> 
   <a>  
+
+## Citation
+
+```
+@ARTICLE{10417074,
+  author={Velasco-Sánchez, Edison and Recalde, Luis F. and Guevara, Bryan S. and Varela-Aldás, José and Candelas, Francisco A. and Puente, Santiago T. and Gandolfo, Daniel C.},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Visual Servoing NMPC Applied to UAVs for Photovoltaic Array Inspection}, 
+  year={2024},
+  volume={9},
+  number={3},
+  pages={2766-2773},
+  keywords={Inspection;Autonomous aerial vehicles;Visual servoing;Feature extraction;Cameras;Visualization;Photovoltaic systems;Aerial systems: Perception and autonomy;optimization and optimal control;visual servoing},
+  doi={10.1109/LRA.2024.3360876}}
+```
 </p>
 
 
