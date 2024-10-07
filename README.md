@@ -1,5 +1,5 @@
 # Visual Servoing + NMPC
-This repository combines visual servoing projected to a null space operator and Nonlinear Model Predictive Control (NMPC). The controller is used for autonomous navigation over photovoltaic arrays.
+This repository combines visual servoing projected to a null space operator and Nonlinear Model Predictive Control (NMPC). The controller is used for autonomous navigation over photovoltaic arrays. Project information can be found at: https://aurova-projects.github.io/visual-servo-NMPC_RAL-IROS/
 
 ## Requirements 
 We have tested this application on a DJI Matrice 100 drone with a Jetson Orin onboard computer. As image sensor we have an Intel Realsense D435i camera. In addition, it is necessary to have ROS Noetic and docker installed. 
