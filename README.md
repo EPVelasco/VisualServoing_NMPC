@@ -45,5 +45,8 @@ We worked together with the research groups of [AUROVA](http://www.aurova.ua.es/
 ```
 </p>
 
+##  License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0) and is intended for non-commercial academic use. If you are interested in using the dataset for commercial purposes please contact us via [email](mailto:edison.velasco@ua.es).
 
     
